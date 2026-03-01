@@ -17,16 +17,16 @@
 ## 📸 Dashboard Screenshots
 
 ### 🏠 Overview — Live Threat Feed
-images\Screenshot 2026-03-01 132220.png
+![Overview Dashboard](images/Screenshot%202026-03-01%20132220.png)
 
 ### 📈 Analytics — Fraud Pattern Visualizations
-![Analytics Dashboard](docs/analytics.png)
+![Analytics Dashboard](images/Screenshot%202026-03-01%20132321.png)
 
 ### 📋 Transactions — Searchable & Paginated Records
-![Transactions Dashboard](docs/transactions.png)
+![Transactions Dashboard](images/Screenshot%202026-03-01%20132348.png)
 
 ### 🧠 Model Metrics — GraphSAGE GNN Evaluation
-![Model Metrics Dashboard](docs/model_metrics.png)
+![Model Metrics Dashboard](images/Screenshot%202026-03-01%20132425.png)
 
 ---
 
