@@ -17,7 +17,7 @@
 ## 📸 Dashboard Screenshots
 
 ### 🏠 Overview — Live Threat Feed
-![Overview Dashboard](docs/overview.png)
+images\Screenshot 2026-03-01 132220.png
 
 ### 📈 Analytics — Fraud Pattern Visualizations
 ![Analytics Dashboard](docs/analytics.png)
