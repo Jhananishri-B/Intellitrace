@@ -278,7 +278,7 @@ To deploy IntelliTrace on real bank data:
 ## 👩‍💻 Author
 
 **Jhananishri B**  
-AI Workshop | IntelliTrace Fraud Detection System  
+IntelliTrace Fraud Detection System  
 Built with ❤️ using PyTorch Geometric + React + FastAPI
 
 ---
